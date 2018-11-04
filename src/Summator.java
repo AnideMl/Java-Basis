@@ -18,6 +18,7 @@ public class Summator {
     {
         int result = firstNumber + secondNumber;
         return result;
+
     }
 
     public long sum2()

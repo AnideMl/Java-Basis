@@ -6,7 +6,6 @@ public class Main {
         Summator summator = new Summator();
         int  result;
 
-
         summator.setFirstNumber(2);
         summator.setSecondNumber(2);
         result = summator.sum();
