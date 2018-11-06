@@ -5,6 +5,7 @@ public class Summator {
     public long firstNumber2;
     public long secondNumber2;
 
+
     //Методы
     public void setFirstNumber(int value)
     {
