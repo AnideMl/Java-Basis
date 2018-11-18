@@ -1,9 +1,4 @@
-package AnideML;
-
-import AnideML.modifire.Default;
-import AnideML.modifire.Pablic;
-import AnideML.modifire.Private;
-import AnideML.modifire.Protected;
+package AnideML.modifire;
 
 public class Main {
     public static void main(String[] args) {
